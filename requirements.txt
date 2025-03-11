@@ -1,0 +1,15 @@
+pandas
+mlflow==2.2.2
+notebook
+numpy
+scikit-learn  # "sklearn" should be written as "scikit-learn"
+matplotlib
+python-box==6.0.2
+PyYAML  # "PYYAML" should be "PyYAML" (case-sensitive)
+tqdm
+ensure==1.0.2  # "ensure--1.0.2" should be "ensure==1.0.2"
+joblib
+types-PyYAML  # Fixed spacing issue ("types -PyYAML" → "types-PyYAML")
+Flask
+Flask-Cors
+-e .
